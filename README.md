@@ -11,6 +11,7 @@ The Movie Management Program is a PyQt5-based desktop application designed to ma
 - Sign Up
 - Reset Password
 - Delete Account
+- ![11](https://github.com/anlbora/movieLibrary/assets/100442507/b08e8b91-888f-4d84-93bc-a4040c316d2d)
 
 ### AdminPanel
 
