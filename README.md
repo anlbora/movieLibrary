@@ -36,9 +36,7 @@ The Movie Management Program is a PyQt5-based desktop application designed to ma
 - **View All Movies**: Displays a table containing information on all movies in the database.
 - **Add Movies**: Facilitates the addition of new movie entries.
 - **Update Movies**: Allows modifications to existing movie details.
-- **Delete Movies**: Permits the removal of movies from the database.
-
----
+- **Delete Movies**: Permits the removal of movies from the database
 
 ## Requirements
 
