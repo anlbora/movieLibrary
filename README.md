@@ -17,6 +17,9 @@ The Movie Management Program is a PyQt5-based desktop application designed to ma
 
   ![12](https://github.com/anlbora/movieLibrary/assets/100442507/f43b8665-89c9-45d0-aa54-c6d041f23b04)
 
+  ![13](https://github.com/anlbora/movieLibrary/assets/100442507/adb60437-a757-4b5c-a434-edb8e2e265a3)
+
+
 ### AdminPanel
 
 ### User Management
