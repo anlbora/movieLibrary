@@ -7,31 +7,38 @@ The Movie Management Program is a PyQt5-based desktop application designed to ma
 ## Features
 
 ### Login Page
-- Login In
+- Log In
 - Sign Up
 - Reset Password
 - Delete Account
 - ![11](https://github.com/anlbora/movieLibrary/assets/100442507/b08e8b91-888f-4d84-93bc-a4040c316d2d)
 
+  Log In page is the starting page which has Log In, Sign Up, Reset Password and Delete Account areas by connecting the SQLite. *create_tables* method creates neccessary database called *MovieDatabase* tables for *USERS, DIRECTORS and MOVIES.* There are various methods attached buttons which have their explanations in the code. All methods have exception handling not to break down the program.  
+
 ### AdminPanel
 
-#### User Management
-- View All Users
-- Add Users
-- Update Users
-- Delete Users
+### User Management
 
-#### Director Management
-- View All Directors
-- Add Directors
-- Update Directors
-- Delete Directors
+- **View All Users**: Displays a comprehensive list of all registered users.
+- **Add Users**: Enables the addition of new user accounts.
+- **Update Users**: Allows modification of existing user information.
+- **Delete Users**: Facilitates the removal of user accounts after authentication.
 
-#### Movie Management
-- View All Movies
-- Add Movies
-- Update Movies
-- Delete Movies
+### Director Management
+
+- **View All Directors**: Presents a list of all registered directors.
+- **Add Directors**: Allows the addition of new director profiles.
+- **Update Directors**: Permits updates to existing director details.
+- **Delete Directors**: Enables the deletion of director profiles from the database.
+
+### Movie Management
+
+- **View All Movies**: Displays a table containing information on all movies in the database.
+- **Add Movies**: Facilitates the addition of new movie entries.
+- **Update Movies**: Allows modifications to existing movie details.
+- **Delete Movies**: Permits the removal of movies from the database.
+
+---
 
 ## Requirements
 
