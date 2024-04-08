@@ -28,6 +28,7 @@ Admin panel lets the admin do various types of actions on Users, Movies and Dire
 ### User Management
 
 - **View All Users**: Displays a comprehensive list of all registered users.
+  ![14](https://github.com/anlbora/movieLibrary/assets/100442507/6898efba-ea78-465c-ae53-fd0170ccd1ad)
 - **Add Users**: Enables the addition of new user accounts.
 - **Update Users**: Allows modification of existing user information.
 - **Delete Users**: Facilitates the removal of user accounts after authentication.
