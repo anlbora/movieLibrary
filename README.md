@@ -21,7 +21,7 @@ The Movie Management Program is a PyQt5-based desktop application designed to ma
 
 
 ### AdminPanel
-
+Admin panel lets the admin do various types of actions on Users, Movies and Directors such as **View, Add, Update and Delete.** Admin Panel's methods have their own explanations in the code. All methods have exception handling not to break down the program. 
 ### User Management
 
 - **View All Users**: Displays a comprehensive list of all registered users.
