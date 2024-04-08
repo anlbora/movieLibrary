@@ -70,7 +70,3 @@ Admin panel lets the admin do various types of actions on Users, Movies and Dire
 1. Launch the application by running `main.py`.
 2. Sign up for a new account or log in with an existing account.
 3. Use the respective buttons in the AdminPanel to manage movies, directors, and user accounts.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
