@@ -49,7 +49,7 @@ Admin panel lets the admin do various types of actions on Users, Movies and Dire
 
 ## Requirements
 
-- Python 3.x
+- Python
 - PyQt5
 - SQLite3
 
